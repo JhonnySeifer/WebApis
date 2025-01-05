@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "w97NZX70sofMI0l3iDtNlFmBcJmn+Q2dO/RtLAiBXaY=",
+  "Source": "ApiRest_Persona",
+  "BasePath": "_content/ApiRest_Persona",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
